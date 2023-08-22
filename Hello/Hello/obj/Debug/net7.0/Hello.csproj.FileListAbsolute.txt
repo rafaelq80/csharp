@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\bin\Debug\net7.0\Hello.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\bin\Debug\net7.0\Hello.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\bin\Debug\net7.0\Hello.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\bin\Debug\net7.0\Hello.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\bin\Debug\net7.0\Hello.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\Hello.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\Hello.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\Hello.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\refint\Hello.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\Hello.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\Hello.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\Hello\Hello\obj\Debug\net7.0\ref\Hello.dll
