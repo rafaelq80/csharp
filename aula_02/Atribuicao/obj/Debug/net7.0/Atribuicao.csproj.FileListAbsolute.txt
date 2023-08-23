@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\bin\Debug\net7.0\Atribuicao.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\refint\Atribuicao.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\Atribuicao.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Atribuicao\obj\Debug\net7.0\ref\Atribuicao.dll
