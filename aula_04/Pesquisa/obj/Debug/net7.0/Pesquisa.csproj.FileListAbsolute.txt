@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\bin\Debug\net7.0\Pesquisa.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\refint\Pesquisa.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\Pesquisa.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Pesquisa\obj\Debug\net7.0\ref\Pesquisa.dll

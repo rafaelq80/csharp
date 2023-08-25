@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\bin\Debug\net7.0\Tabuada_While.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\bin\Debug\net7.0\Tabuada_While.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\bin\Debug\net7.0\Tabuada_While.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\bin\Debug\net7.0\Tabuada_While.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\bin\Debug\net7.0\Tabuada_While.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\Tabuada_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\Tabuada_While.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\Tabuada_While.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\Tabuada_While.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\Tabuada_While.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\refint\Tabuada_While.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\Tabuada_While.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\Tabuada_While.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\Tabuada_While\obj\Debug\net7.0\ref\Tabuada_While.dll

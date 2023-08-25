@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\bin\Debug\net7.0\LacoDo.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\refint\LacoDo.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\LacoDo.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_04\LacoDo\obj\Debug\net7.0\ref\LacoDo.dll
