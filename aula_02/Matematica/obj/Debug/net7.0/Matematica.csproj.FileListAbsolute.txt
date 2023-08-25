@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\bin\Debug\net7.0\Matematica.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\bin\Debug\net7.0\Matematica.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\bin\Debug\net7.0\Matematica.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\bin\Debug\net7.0\Matematica.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\bin\Debug\net7.0\Matematica.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\Matematica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\Matematica.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\Matematica.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\Matematica.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\Matematica.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\refint\Matematica.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\Matematica.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\Matematica.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_02\Matematica\obj\Debug\net7.0\ref\Matematica.dll

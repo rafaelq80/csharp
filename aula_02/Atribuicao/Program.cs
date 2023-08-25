@@ -24,7 +24,7 @@
 
             x -= z;
             Console.WriteLine("\nAtribuição com subtração (x = x - z): " + x);
-
+            
             x *= y;
             Console.WriteLine("\nAtribuição com multiplicação (x = x * y): " + x);
 

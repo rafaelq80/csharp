@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\bin\Debug\net7.0\PlanoSaude.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\bin\Debug\net7.0\PlanoSaude.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\bin\Debug\net7.0\PlanoSaude.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\bin\Debug\net7.0\PlanoSaude.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\bin\Debug\net7.0\PlanoSaude.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\PlanoSaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\PlanoSaude.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\PlanoSaude.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\PlanoSaude.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\PlanoSaude.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\refint\PlanoSaude.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\PlanoSaude.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\PlanoSaude.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_03\PlanoSaude\obj\Debug\net7.0\ref\PlanoSaude.dll
