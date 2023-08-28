@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\bin\Debug\net7.0\debug.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\bin\Debug\net7.0\debug.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\bin\Debug\net7.0\debug.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\bin\Debug\net7.0\debug.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\bin\Debug\net7.0\debug.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\debug.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\debug.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\debug.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\debug.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\refint\debug.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\debug.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\debug.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\debug\obj\Debug\net7.0\ref\debug.dll
