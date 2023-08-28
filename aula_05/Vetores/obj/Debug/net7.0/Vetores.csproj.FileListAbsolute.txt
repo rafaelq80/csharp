@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\bin\Debug\net7.0\Vetores.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\bin\Debug\net7.0\Vetores.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\bin\Debug\net7.0\Vetores.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\bin\Debug\net7.0\Vetores.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\bin\Debug\net7.0\Vetores.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\Vetores.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\refint\Vetores.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\Vetores.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\Vetores.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Vetores\obj\Debug\net7.0\ref\Vetores.dll

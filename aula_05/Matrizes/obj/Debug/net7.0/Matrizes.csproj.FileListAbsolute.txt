@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\bin\Debug\net7.0\Matrizes.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\bin\Debug\net7.0\Matrizes.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\bin\Debug\net7.0\Matrizes.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\bin\Debug\net7.0\Matrizes.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\bin\Debug\net7.0\Matrizes.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\Matrizes.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\Matrizes.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\refint\Matrizes.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\Matrizes.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\Matrizes.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_05\Matrizes\obj\Debug\net7.0\ref\Matrizes.dll
