@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\bin\Debug\net7.0\Pilha.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\bin\Debug\net7.0\Pilha.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\bin\Debug\net7.0\Pilha.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\bin\Debug\net7.0\Pilha.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\bin\Debug\net7.0\Pilha.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\Pilha.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\Pilha.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\refint\Pilha.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\Pilha.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\Pilha.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\Pilha\obj\Debug\net7.0\ref\Pilha.dll
