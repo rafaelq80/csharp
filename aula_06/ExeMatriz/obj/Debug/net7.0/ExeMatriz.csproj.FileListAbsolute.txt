@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\bin\Debug\net7.0\ExeMatriz.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\bin\Debug\net7.0\ExeMatriz.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\bin\Debug\net7.0\ExeMatriz.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\bin\Debug\net7.0\ExeMatriz.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\bin\Debug\net7.0\ExeMatriz.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ExeMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ExeMatriz.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ExeMatriz.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ExeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ExeMatriz.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\refint\ExeMatriz.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ExeMatriz.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ExeMatriz.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_06\ExeMatriz\obj\Debug\net7.0\ref\ExeMatriz.dll
