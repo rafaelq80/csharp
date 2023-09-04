@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\bin\Debug\net7.0\Funcionarios.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\bin\Debug\net7.0\Funcionarios.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\bin\Debug\net7.0\Funcionarios.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\bin\Debug\net7.0\Funcionarios.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\bin\Debug\net7.0\Funcionarios.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\Funcionarios.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\refint\Funcionarios.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\Funcionarios.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\Funcionarios.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Funcionarios\obj\Debug\net7.0\ref\Funcionarios.dll
