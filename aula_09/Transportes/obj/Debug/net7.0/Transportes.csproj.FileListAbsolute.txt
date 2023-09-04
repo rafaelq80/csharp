@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\bin\Debug\net7.0\Transportes.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\bin\Debug\net7.0\Transportes.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\bin\Debug\net7.0\Transportes.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\bin\Debug\net7.0\Transportes.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\bin\Debug\net7.0\Transportes.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\Transportes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\Transportes.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\Transportes.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\Transportes.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\Transportes.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\refint\Transportes.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\Transportes.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\Transportes.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_09\Transportes\obj\Debug\net7.0\ref\Transportes.dll

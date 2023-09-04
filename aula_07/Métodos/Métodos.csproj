@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Metodos_02\Metodos_02.csproj" />
+  </ItemGroup>
+
 </Project>

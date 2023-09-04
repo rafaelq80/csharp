@@ -15,7 +15,7 @@
             media = (nota1 + nota2) / 2;
 
             Console.WriteLine((media >= 6) ? "Aprovado!" : (media >= 4 && media < 6) ? "Exame" : "Reprovado!");
-            
+
             // condição ? ação verdade : ação para falso
         }
     }

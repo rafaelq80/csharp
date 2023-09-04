@@ -8,6 +8,7 @@ namespace Metodos_02
 {
     public class Classe01
     {
+
         public static void MetodoPublico()
         {
             Console.WriteLine("Método Público - Classe 01");

@@ -1,4 +1,6 @@
-﻿using Metodos_02.Namespace01;
+﻿
+
+using Metodos_02.Namespace01;
 
 namespace Métodos
 {
@@ -26,7 +28,8 @@ namespace Métodos
 
             Dev();
 
-            Classe02.
+            Classe02.MetodoPublico();
+            
         }
 
         static float Somar(float numero1, float numero2)

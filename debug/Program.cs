@@ -1,14 +1,21 @@
-﻿namespace debug;
+﻿using debug.Namespace01;
 
-class Program
+namespace debug
 {
-    static void Main(string[] args)
+    class Program
     {
-        int[] vetor01 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-
-        for (int indice = 0; indice < 10; indice++)
+        static void Main(string[] args)
         {
-            Console.WriteLine($"vetor01[{indice}] = {vetor01[indice]}");
+            int[] vetor01 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            for (int indice = 0; indice < 10; indice++)
+            {
+                Console.WriteLine($"vetor01[{indice}] = {vetor01[indice]}");
+            }
+
+            Classe01.Teste01();
+            Classe02.Teste02();
+          
         }
     }
 }
