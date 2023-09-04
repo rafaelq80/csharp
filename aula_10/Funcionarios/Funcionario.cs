@@ -9,10 +9,10 @@ namespace Funcionarios
     public abstract class Funcionario
     {
         private float salario;
-        private String cargo;
-        private String nome;
+        private string cargo;
+        private string nome;
 
-        public Funcionario(float salario, String cargo, String nome)
+        public Funcionario(float salario, string cargo, string nome)
         {
             this.salario = salario;
             this.cargo = cargo;
@@ -21,8 +21,6 @@ namespace Funcionarios
 
         //Métodos abstratos
         public abstract float CalcularSalario();
-        public abstract float CalcularComissao();
-        public abstract float CalcularBonus();
 
         public float GetSalario()
         {
@@ -34,22 +32,22 @@ namespace Funcionarios
             this.salario = salario;
         }
 
-        public String GetCargo()
+        public string GetCargo()
         {
             return cargo;
         }
 
-        public void SetCargo(String cargo)
+        public void SetCargo(string cargo)
         {
             this.cargo = cargo;
         }
 
-        public String GetNome()
+        public string GetNome()
         {
             return nome;
         }
 
-        public void SetNome(String nome)
+        public void SetNome(string nome)
         {
             this.nome = nome;
         }

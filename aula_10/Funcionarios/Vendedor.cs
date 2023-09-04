@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Funcionarios
 {
-    public class Vendedor : Funcionario
+    public class Vendedor : Funcionario, IComissao
     {
         private float totalVendas;
 
@@ -26,19 +26,14 @@ namespace Funcionarios
             this.totalVendas = totalVendas;
         }
 
-        public override float CalcularBonus()
-        {
-            throw new NotImplementedException();
-        }
-
-        public override float CalcularComissao()
-        {
-            return this.totalVendas * 0.1f;
-        }
-
         public override float CalcularSalario()
         {
             return this.GetSalario() + this.CalcularComissao();
+        }
+
+        public float CalcularComissao()
+        {
+            return this.totalVendas * 0.1f;
         }
     }
 }

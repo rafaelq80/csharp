@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Funcionarios
 {
-    public class Gerente : Funcionario
+    public class Gerente : Funcionario, IBonus
     {
         private float bonus;
 
@@ -26,14 +26,9 @@ namespace Funcionarios
             this.bonus = bonus;
         }
 
-        public override float CalcularBonus()
+        public float CalcularBonus()
         {
             return this.GetSalario() * this.GetBonus();
-        }
-
-        public override float CalcularComissao()
-        {
-            throw new NotImplementedException();
         }
 
         public override float CalcularSalario()

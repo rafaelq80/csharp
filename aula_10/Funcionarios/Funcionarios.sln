@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios", "Funcionarios.csproj", "{FE6A865F-8B09-4B67-BB5D-9C0AF2A2A9B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios", "Funcionarios.csproj", "{FE6A865F-8B09-4B67-BB5D-9C0AF2A2A9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triatleta", "..\Triatleta\Triatleta.csproj", "{5F99C519-534A-44AB-936A-B39DBC82C4BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FE6A865F-8B09-4B67-BB5D-9C0AF2A2A9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE6A865F-8B09-4B67-BB5D-9C0AF2A2A9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE6A865F-8B09-4B67-BB5D-9C0AF2A2A9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F99C519-534A-44AB-936A-B39DBC82C4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F99C519-534A-44AB-936A-B39DBC82C4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F99C519-534A-44AB-936A-B39DBC82C4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F99C519-534A-44AB-936A-B39DBC82C4BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

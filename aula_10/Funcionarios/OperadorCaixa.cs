@@ -14,16 +14,6 @@ namespace Funcionarios
         {
         }
 
-        public override float CalcularBonus()
-        {
-            throw new NotImplementedException();
-        }
-
-        public override float CalcularComissao()
-        {
-            throw new NotImplementedException();
-        }
-
         public override float CalcularSalario()
         {
             return this.GetSalario();

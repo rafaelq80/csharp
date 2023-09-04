@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\bin\Debug\net7.0\Triatleta.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\refint\Triatleta.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\Triatleta.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Triatleta\obj\Debug\net7.0\ref\Triatleta.dll
