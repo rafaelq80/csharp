@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\bin\Debug\net7.0\Pets.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\bin\Debug\net7.0\Pets.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\bin\Debug\net7.0\Pets.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\bin\Debug\net7.0\Pets.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\bin\Debug\net7.0\Pets.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\Pets.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\Pets.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\Pets.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\refint\Pets.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\Pets.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\Pets.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\aula_10\Pets\obj\Debug\net7.0\ref\Pets.dll
