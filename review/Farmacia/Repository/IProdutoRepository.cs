@@ -9,7 +9,7 @@ namespace Farmacia.Repository
 {
     public interface IProdutoRepository
     {
-        public void ProcurarPorNumero(int id);
+        public void ProcurarPorId(int id);
         public void ListarTodas();
         public void Cadastrar(Produto produto);
         public void Atualizar(Produto produto);

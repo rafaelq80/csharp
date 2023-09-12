@@ -67,7 +67,7 @@ namespace Farmacia.Controller
             }
         }
 
-        public void ProcurarPorNumero(int id)
+        public void ProcurarPorId(int id)
         {
             var produto = BuscarNaCollection(id);
 
@@ -83,7 +83,7 @@ namespace Farmacia.Controller
 
         /* Métodos Auxiliares */
 
-        public int GerarNumero()
+        public int GerarId()
         {
             return ++id;
         }

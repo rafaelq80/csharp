@@ -1,5 +1,7 @@
-﻿using Farmacia.Model;
+﻿using Farmacia.Controller;
+using Farmacia.Model;
 using System;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace farmacia
 {
@@ -9,17 +11,17 @@ namespace farmacia
 
         static void Main(string[] args)
         {
-            int opcao;
+            int opcao, id, tipo;
+            decimal preco;
+            string? nome, generico, fragancia;
 
-            /*Produto p1 = new Produto();
+            ProdutoController produtos = new();
 
-            Produto p2 = new Produto(1, "Paracetamol", 1, 20.00M);
+            Medicamento m1 = new Medicamento(produtos.GerarId(), "Paracetamol 750mg", 1, 20.00M, "Paracetamol");
+            produtos.Cadastrar(m1);
 
-            Produto p3 = new Produto("Paracetamol", 1, 20.00M);
-
-            p1.Visualizar();
-            p2.Visualizar();
-            p3.Visualizar();*/
+            Cosmetico m2 = new Cosmetico(produtos.GerarId(), "Sabonete Infantil", 1, 25.00M, "Neutro");
+            produtos.Cadastrar(m2);
 
             while (true)
             {
@@ -41,7 +43,17 @@ namespace farmacia
                 Console.WriteLine("Entre com a opção desejada:                          ");
                 Console.WriteLine("                                                     ");
 
-                opcao = Convert.ToInt32(Console.ReadLine());
+                try
+                {
+                    opcao = Convert.ToInt32(Console.ReadLine());
+                }
+                catch (FormatException)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Digite uma valor inteiro entre 1 e 9");
+                    opcao = 0;
+                    Console.ResetColor();
+                }
 
                 if (opcao == 6)
                 {
@@ -55,25 +67,115 @@ namespace farmacia
                     case 1:
                         Console.WriteLine("Criar Produto\n\n");
 
+                        Console.WriteLine("Digite o Nome do Produto: ");
+                        nome = Console.ReadLine();
+
+                        nome ??= string.Empty;
+
+                        do
+                        {
+                            Console.WriteLine("Digite o Tipo do Produto: ");
+                            tipo = Convert.ToInt32(Console.ReadLine());
+                        } while (tipo != 1 && tipo != 2);
+
+                        Console.WriteLine("Digite o Preço do Produto: ");
+                        preco = Convert.ToDecimal(Console.ReadLine());
+
+                        switch (tipo)
+                        {
+                            case 1:
+                                Console.WriteLine("Digite o Nome Genérico: ");
+                                generico = Console.ReadLine();
+
+                                generico ??= string.Empty;
+
+                                produtos.Cadastrar(new Medicamento(produtos.GerarId(), nome, tipo, preco, generico));
+                                break;
+                            case 2:
+                                Console.WriteLine("Digite o Nome Genérico: ");
+                                fragancia = Console.ReadLine();
+
+                                fragancia ??= string.Empty;
+
+                                produtos.Cadastrar(new Medicamento(produtos.GerarId(), nome, tipo, preco, fragancia));
+                                break;
+                        }
+
                         KeyPress();
                         break;
                     case 2:
                         Console.WriteLine("Listar todos os Produtos\n\n");
+
+                        produtos.ListarTodas();
 
                         KeyPress();
                         break;
                     case 3:
                         Console.WriteLine("Consultar dados do Produto - por Id\n\n");
 
+                        Console.WriteLine("Digite o Id do Produto: ");
+                        id = Convert.ToInt32(Console.ReadLine());
+
+                        produtos.ProcurarPorId(id);
+
                         KeyPress();
                         break;
                     case 4:
                         Console.WriteLine("Atualizar dados do Produto\n\n");
 
+                        Console.WriteLine("Digite o Id do Produto: ");
+                        id = Convert.ToInt32(Console.ReadLine());
+
+                        var produto = produtos.BuscarNaCollection(id);
+
+                        if (produto is not null)
+                        {
+                            Console.WriteLine("Digite o Nome do Produto: ");
+                            nome = Console.ReadLine();
+
+                            nome ??= string.Empty;
+
+                            tipo = produto.Tipo;
+
+                            Console.WriteLine("Digite o Preço do Produto: ");
+                            preco = Convert.ToDecimal(Console.ReadLine());
+
+                            switch (tipo)
+                            {
+                                case 1:
+                                    Console.WriteLine("Digite o Nome Genérico: ");
+                                    generico = Console.ReadLine();
+
+                                    generico ??= string.Empty;
+
+                                    produtos.Atualizar(new Medicamento(id, nome, tipo, preco, generico));
+
+                                    break;
+                                case 2:
+                                    Console.WriteLine("Digite o Nome Genérico: ");
+                                    fragancia = Console.ReadLine();
+
+                                    fragancia ??= string.Empty;
+
+                                    produtos.Atualizar(new Medicamento(id, nome, tipo, preco, fragancia));
+
+                                    break;
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine($"O Produto não foi encontrada!");
+                        }
+
                         KeyPress();
                         break;
                     case 5:
                         Console.WriteLine("Apagar o Produto\n\n");
+
+                        Console.WriteLine("Digite o Id do Produto: ");
+                        id = Convert.ToInt32(Console.ReadLine());
+
+                        produtos.Deletar(id);
 
                         KeyPress();
                         break;
