@@ -1,0 +1,14 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\bin\Debug\net7.0\Farmacia.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\bin\Debug\net7.0\Farmacia.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\bin\Debug\net7.0\Farmacia.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\bin\Debug\net7.0\Farmacia.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\bin\Debug\net7.0\Farmacia.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\Farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\Farmacia.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\Farmacia.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\Farmacia.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\Farmacia.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\refint\Farmacia.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\Farmacia.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\Farmacia.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\review\Farmacia\obj\Debug\net7.0\ref\Farmacia.dll
